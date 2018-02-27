@@ -1,0 +1,7 @@
+.allure/
+.idea/
+target/
+*.iml
+.classpath
+.project
+.settings/
